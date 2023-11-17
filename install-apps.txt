@@ -7,4 +7,6 @@ Citrix.Workspace
 TrackerSoftware.PDF-XChangeEditor
 VideoLAN.VLC
 PuTTY.PuTTY
+test.test
+
 
